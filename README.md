@@ -4,6 +4,10 @@ Um compilado de links e dicas úteis para desenvolvedores iniciantes.
 ## Cursos
 Compilado dos melhores cursos gratuitos para cada linguagem.
 
+### HTML5 e CSS3
+#### [Curso em Vídeo]((https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n))
+Conta com material em PDF disponibilizado no próprio curso. Emite certificado.
+
 ### JavaScript
 #### [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 Simplesmente O MELHOR curso de JavaScript da internet, talvez mesmo considerando os pagos, feito em parceria com a **Google**. O curso pode ser de 5 anos atrás, mas o JavaScript não mudou NADA das coisas ensinadas aí.
