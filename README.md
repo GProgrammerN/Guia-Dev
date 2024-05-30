@@ -1,7 +1,7 @@
 # Guia-Dev
 Um compilado de links e dicas úteis para desenvolvedores iniciantes.
 
-## Cursos
+# Cursos
 Compilado dos melhores cursos gratuitos para cada linguagem.
 
 ## HTML5 e CSS3
