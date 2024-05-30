@@ -16,6 +16,10 @@ Simplesmente O MELHOR curso de JavaScript da internet, talvez mesmo considerando
 ### [DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
 São quase 300 aulas gratuitas, cobrindo do básico ao avançado da linguagem. Não há necessidade de outro curso de Java depois desse. Espere várias referências geeks.
 
+## Python
+### [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+Uma introdução sólida.
+
 ## C#
 ### [Balta.IO](https://balta.io/cursos/fundamentos-csharp)
 Curso que ensina os fundamentos do C# gratuitamente. Os conteúdos posteriores são pagos.
